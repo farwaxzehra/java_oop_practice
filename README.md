@@ -1,5 +1,16 @@
 # This repository contains beginner-level Java Object-Oriented Programming (OOP) practice projects & learning.
 
+## - OOP Basics
+### Topics Covered:
+- Inheritance (Vehicle, Car, Bike)
+- Method Overriding
+- Encapsulation (Person class)
+
+### Files:
+- InheritanceExample.java
+- MethodOverriding.java
+- PersonExample.java
+- 
 ## Topics Covered:
 - Classes and Objects
 - Constructors
@@ -13,15 +24,5 @@
 3. Rectangle Area Calculator
 
 
-## Day 2 - OOP Basics
 
-### Topics Covered:
-- Inheritance (Vehicle, Car, Bike)
-- Method Overriding
-- Encapsulation (Person class)
-
-### Files:
-- InheritanceExample.java
-- MethodOverriding.java
-- PersonExample.java
   
